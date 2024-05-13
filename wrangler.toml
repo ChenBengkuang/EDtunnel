@@ -16,4 +16,4 @@ custom_domain = true
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
 PASSWORD = "ChenBen"
-PROXYIP = "8.219.151.193"
+PROXYIP = "35.219.50.99"
